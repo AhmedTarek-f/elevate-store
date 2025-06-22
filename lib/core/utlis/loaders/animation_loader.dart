@@ -13,19 +13,17 @@ class AnimationLoaderWidget extends StatelessWidget {
   final String animation;
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Lottie.asset(animation, width: ScreenUtil().screenWidth * 0.8),
-          SizedBox(height: 12.h),
-          Text(
-            text,
-            style: Theme.of(context).textTheme.bodyLarge,
-            textAlign: TextAlign.center,
-          ),
-        ],
-      ),
+    return Column(
+      children: [
+        const RSizedBox(height: 80),
+        Lottie.asset(animation, width: ScreenUtil().screenWidth * 0.8),
+        SizedBox(height: 12.h),
+        Text(
+          text,
+          style: Theme.of(context).textTheme.bodyLarge,
+          textAlign: TextAlign.center,
+        ),
+      ],
     );
   }
 }
