@@ -43,7 +43,7 @@ abstract class AppTheme {
       bodySmall: TextStyle(
         fontSize: 12.sp,
         fontWeight: FontWeight.w500,
-        color: AppColors.indigo,
+        color: AppColors.lightBlue,
       ),
     ),
   );
@@ -88,7 +88,7 @@ abstract class AppTheme {
       bodySmall: TextStyle(
         fontSize: 12.sp,
         fontWeight: FontWeight.w500,
-        color: AppColors.gray,
+        color: AppColors.lightBlue,
       ),
     ),
   );
