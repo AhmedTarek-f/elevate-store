@@ -5,6 +5,7 @@ abstract final class AppText {
       "There are no available products right now.";
   static const String dataLoadingFailureMessage =
       "Failed while loading products data:";
+  static const String tryAgain = "Try again";
 
   // Exceptions
   static const String noResponseReceivedMessage =
