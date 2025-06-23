@@ -9,14 +9,10 @@ A store app that displays the product list on the home screen.
 - **Home**: It showcases all the store's categories along with the products in each category.
 
 ## Screenshots 📸
-<img src="https://github.com/user-attachments/assets/af832e1c-80ee-44d4-b0b1-8dec07ca4cd8
-" alt="Screenshot 1" width="300"/>
-<img src="https://github.com/user-attachments/assets/aca71468-9da9-4c4e-843f-41150ba7c12d
-" alt="Screenshot 2" width="300"/>
-<img src="https://github.com/user-attachments/assets/81586cca-53b2-4abe-8e7e-268408940d82
-" alt="Screenshot 3" width="300"/>
-<img src="https://github.com/user-attachments/assets/716b1186-b868-45d1-9c0d-6ffcd7d40c03
-" alt="Screenshot 4" width="300"/>
+<img src="https://github.com/user-attachments/assets/af832e1c-80ee-44d4-b0b1-8dec07ca4cd8" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/aca71468-9da9-4c4e-843f-41150ba7c12d" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/81586cca-53b2-4abe-8e7e-268408940d82" alt="Screenshot 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/716b1186-b868-45d1-9c0d-6ffcd7d40c03" alt="Screenshot 4" width="300"/>
 
 ## 📦 Tech Stack
 
